@@ -17,8 +17,6 @@ A responsive, navy-blue personal portfolio built with React and Vite. It present
 - JavaScript
 - CSS
 
-## Run locally
-
 ### Prerequisites
 
 - Node.js 18 or later
